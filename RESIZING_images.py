@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 27 18:15:37 2018
 
-@author: HP
+@author: dhruv
 """
 import cv2
 import glob
