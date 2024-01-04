@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 27 18:15:37 2018
 
-@author: HP
+@author: dhruv
 """
 #import cv2
 #img = cv2.imread('F:\python\IMG_1.jpg')
