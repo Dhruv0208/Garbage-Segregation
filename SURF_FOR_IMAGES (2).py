@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 27 07:52:46 2018
 
-@author: HP
+@author: dhruv
 """
 
 import cv2
